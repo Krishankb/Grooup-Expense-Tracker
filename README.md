@@ -9,3 +9,18 @@ The goal of this project is to create a simple expense tracker in which a group 
     $ python expense_tracker.py
 
 
+Screenshot of Working projects:
+
+![screenshot1](https://user-images.githubusercontent.com/30771097/174640229-78148850-ba71-4448-9f36-161308fd865a.jpg)
+
+
+![screenshot2](https://user-images.githubusercontent.com/30771097/174640289-de39ace6-4f8e-49be-a2d5-8211e56cd40c.jpg)
+
+
+![screenshot3](https://user-images.githubusercontent.com/30771097/174640372-549bf36d-e5d4-432f-bab9-1ebafc72411f.jpg)
+
+
+
+![screenshot4](https://user-images.githubusercontent.com/30771097/174640437-856b8575-5e7a-4dd3-b5e9-e31f5d5bb165.jpg)
+
+
