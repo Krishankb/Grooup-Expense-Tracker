@@ -6,6 +6,6 @@ The goal of this project is to create a simple expense tracker in which a group 
 
 2.Run the command on the terminal. 
 
-'$ python expense_tracker.py'
+    $ python expense_tracker.py
 
 
