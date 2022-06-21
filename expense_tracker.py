@@ -256,9 +256,9 @@ def del_dict(grp_exp,expenses):
 #create_group()
 
 ## Trying the function
-expenses1 = {'names': 'fruits', 'items': [{'name': 'fruits', 'value': '50', 'paid_by': {'a': 20, 'b': 30}, 'owed_by': {'a': 30, 'b': 20}}]}
+#expenses1 = {'names': 'fruits', 'items': [{'name': 'fruits', 'value': '50', 'paid_by': {'a': 20, 'b': 30}, 'owed_by': {'a': 30, 'b': 20}}]}
 
-grp_exp1 = {'abc': [{'names': 'fruits', 'items': {'name': 'fruits', 'value': '50', 'paid_by': {'a': 20, 'b': 30}, 'owed_by': {'a': 30, 'b': 20}}}]}
+#grp_exp1 = {'abc': [{'names': 'fruits', 'items': {'name': 'fruits', 'value': '50', 'paid_by': {'a': 20, 'b': 30}, 'owed_by': {'a': 30, 'b': 20}}}]}
 
 #balance_tracker(grp_exp1 , expenses1)
 
